@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+.nyc_output/
+
+# Production
+dist/
+build/
+out/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+*.pem
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# OS
+.AppleDouble
+.LSOverride
+
+# Aider
+.aider*
+.aider.tags.cache*
+
+# Bun
+.bun/
+
+# Vite
+.vite/
